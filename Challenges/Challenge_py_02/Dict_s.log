@@ -1,0 +1,22 @@
+INFO  2022-07-03 13:05:47,774 Inside lvl2nesting function
+ERROR  2022-07-03 13:05:47,774 'dict' object has no attribute 'd'
+INFO  2022-07-03 13:07:06,483 Accessing Dict_s class
+INFO  2022-07-03 13:07:21,929 Accessing Dict_s class
+INFO  2022-07-03 13:07:39,689 Accessing Dict_s class
+INFO  2022-07-03 13:08:25,500 Accessing Dict_s class
+INFO  2022-07-03 13:08:36,230 Accessing Dict_s class
+INFO  2022-07-03 13:09:05,589 Accessing Dict_s class
+INFO  2022-07-03 13:09:05,590 Inside lvl2nesting function
+ERROR  2022-07-03 13:09:05,590 'int' object has no attribute 'd'
+INFO  2022-07-03 13:10:05,575 Accessing Dict_s class
+INFO  2022-07-03 13:15:33,069 Accessing Dict_s class
+INFO  2022-07-03 13:15:33,069 Inside lvl2nesting function
+INFO  2022-07-03 13:15:33,069 input provided is dictionary
+INFO  2022-07-03 13:15:33,069 ['1']
+INFO  2022-07-03 13:15:33,069 ['1', '2']
+INFO  2022-07-03 13:15:33,070 ['1', '2', 1, 2, 3]
+INFO  2022-07-03 13:15:33,070 ['1', '2', 1, 2, 3, '3']
+INFO  2022-07-03 13:15:33,070 ['1', '2', 1, 2, 3, '3', 'a']
+INFO  2022-07-03 13:15:33,070 ['1', '2', 1, 2, 3, '3', 'a', 1, 2, 3]
+INFO  2022-07-03 13:15:33,070 ['1', '2', 1, 2, 3, '3', 'a', 1, 2, 3, 'an', 'ku', 'r']
+INFO  2022-07-03 13:15:33,070 output ['1', '2', 1, 2, 3, '3', 'a', 1, 2, 3, 'an', 'ku', 'r']
